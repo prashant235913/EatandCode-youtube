@@ -12,7 +12,7 @@ I am currently a student, eagerly learning and exploring various technologies. I
 
 ## YouTube Channel
 
-[<img src="./Monochrome%20Modern%20Technology%20Black%20Logo%281%29.png" alt="YouTube Icon" style="width: 32px; height: 32px;">](https://www.youtube.com/EatandCode)
+[<img src="./Monochrome%20Modern%20Technology%20Black%20Logo%281%29.png" alt="YouTube Icon" style="width: 32px; height: 32px;">](https://www.youtube.com/@EatandCode)
 
 
 I utilize this YouTube channel as a platform to enhance my confidence in front of the camera while sharing valuable insights and knowledge. It serves as an opportunity for me to document my learning process and provide helpful content to others in the tech community.
